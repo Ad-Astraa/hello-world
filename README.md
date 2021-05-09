@@ -1,2 +1,3 @@
 # hello-world
 My first repository!!
+Well, my name is Laurindo Diniz, from Brazil. I'm a Computer Technician by formation and I like a lot to code because it keeps my mind clear and soft! Unfortunatelly I didn't had a PC until February of this year, so everything I ever coded was at my formation school, and was completelly deleted as I concluded the course. I'm actually pretty happy seeing myself coding again after almost 2 years without even writing nothing about IT. I hope I can learn more with my new courses and get deeper in my newer interests, I finally can keep my mind soft, coding once again!
